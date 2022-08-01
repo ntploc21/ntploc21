@@ -9,6 +9,7 @@ I'm currently a 1st-year student at University of Science, majoring in Computer 
 <div align="center">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=ntploc21&bg_color=30,19c9fa,1977fa&title_color=fff&text_color=fff&icon_color=023047&show_icons=true" />
 </div>
+-->
 
 <h2 align="center">Social Media</h2>
 <br>
@@ -25,7 +26,7 @@ I'm currently a 1st-year student at University of Science, majoring in Computer 
   </a>
 </div>
 
--->
+
 
 <!--
 **ntploc21/ntploc21** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
