@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+Welcome to my Github page.
+
+I'm currently a 1st-year student at University of Science, majoring in Computer Science. I have a strong competency in algorithms and data structures.
+
 <!--
 **ntploc21/ntploc21** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
