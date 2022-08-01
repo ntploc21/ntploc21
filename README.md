@@ -11,6 +11,7 @@ I'm currently a 1st-year student at University of Science, majoring in Computer 
 </div>
 -->
 
+<!--
 <h2 align="center">Social Media</h2>
 <br>
 
@@ -25,6 +26,7 @@ I'm currently a 1st-year student at University of Science, majoring in Computer 
     <img src="https://img.icons8.com/bubbles/100/000000/facebook-new.png" alt="mallee-facebook" />
   </a>
 </div>
+-->
 
 
 
