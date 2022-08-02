@@ -17,13 +17,13 @@ I'm currently a 1st-year student at University of Science, majoring in Computer 
 
 <div align="center">
   <a href="https://www.linkedin.com/in/ntploc21/" target="_blank">
-    <img src="https://img.icons8.com/clouds/344/linkedin.png" style="width:80px;height:80px" alt="mallee-linkedin" />
+    <img src="https://img.icons8.com/fluency/344/linkedin.png" style="width:80px;height:80px" alt="mallee-linkedin" />
   </a>
   <a href="mailto:ntploc21@gmail.com" target="top">
-    <img src="https://img.icons8.com/clouds/344/gmail.png" style="width:80px;height:80px" alt="mallee-email" />
+    <img src="https://img.icons8.com/fluency/344/gmail.png" style="width:80px;height:80px" alt="mallee-email" />
   </a>
   <a href="https://www.facebook.com/ntploc.21/" target="_blank">
-    <img src="https://img.icons8.com/clouds/344/facebook.png" style="width:80px;height:80px" alt="mallee-facebook" />
+    <img src="https://img.icons8.com/fluency/344/facebook.png" style="width:80px;height:80px" alt="mallee-facebook" />
   </a>
 </div>
 -
