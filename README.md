@@ -2,7 +2,7 @@
 
 Welcome to my Github page.
 
-I'm currently a 1st-year student at University of Science, majoring in Computer Science. I have a strong competency in algorithms and data structures.
+I'm currently a 2nd-year student at University of Science, majoring in Computer Science. I have a strong competency in algorithms and data structures.
 
 <!--
 <h2 align="center">Github stats</h2>
