@@ -1,8 +1,6 @@
-### Hi there 👋
+I grew up in Ho Chi Minh City, Vietnam. I'm a junior at VNUHCM - University of Science, and I have a strong passion for Competitive Programming, strong competency in Algorithms, and Data structures. I'm pursuing positions in the software engineering industry, especially in back-end engineering. My interests include e-commerce, fintech, high-performance, and large-scale systems.
 
-Welcome to my Github page.
-
-I'm currently a 3rd-year student at University of Science, majoring in Computer Science. I have a strong competency in algorithms and data structures.
+You can contact me at ntploc21@gmail.com or on LinkedIn as Loc Nguyen.
 
 <!--
 <h2 align="center">Github stats</h2>
