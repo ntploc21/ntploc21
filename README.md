@@ -1,4 +1,4 @@
-I grew up in Ho Chi Minh City, Vietnam. I'm a junior at VNUHCM - University of Science, and I have a strong passion for Competitive Programming, strong competency in Algorithms, and Data structures. I'm pursuing positions in the software engineering industry, especially in back-end engineering. My interests include e-commerce, fintech, high-performance, and large-scale systems.
+I grew up in Ho Chi Minh City, Vietnam. I'm a final-year student at VNUHCM - University of Science, and I have a strong passion for Competitive Programming, with a strong competency in algorithms and data structures. I'm pursuing positions in the software engineering industry, with a focus on back-end engineering. My interests include e-commerce, fintech, high-performance, and large-scale systems.
 
 You can contact me at ntploc21@gmail.com or on LinkedIn as Loc Nguyen.
 
